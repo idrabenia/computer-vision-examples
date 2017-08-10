@@ -1,0 +1,10 @@
+# -*- protobuffer -*-
+# LabelMap from ImageNet 2012 full data set UID to int32 target class.
+entry {
+  target_class: 0
+  target_class_string: "n01440764"
+}
+entry {
+  target_class: 1
+  target_class_string: "n01443537"
+}
